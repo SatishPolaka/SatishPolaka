@@ -1,318 +1,140 @@
-# 👋 Hey there! I'm Satish Polaka
+# 👋 Hi, I'm Satish Polaka
 
-### AWS & Azure Cloud / DevOps Engineer | Cloud Automation | Infrastructure as Code
+### AWS & Azure Cloud / DevOps Engineer | Automation | Infrastructure as Code
 
-🚀 **Cloud & DevOps Engineer with 4+ years of experience** in cloud infrastructure, automation, Infrastructure as Code, containerisation, CI/CD, and Linux environments.
+**Cloud & DevOps Engineer with 4+ years of experience** working with cloud infrastructure, automation, CI/CD, containers, Infrastructure as Code, and Linux environments.
 
-I work with **AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Jenkins, Git, Linux, and Shell Scripting** to automate infrastructure, deployments, and operational processes.
-
----
-
-## 👨‍💻 About Me
-
-I'm **Satish Polaka**, an **AWS & Azure Cloud / DevOps Engineer with 4+ years of experience** in cloud infrastructure and DevOps practices.
-
-My experience includes working with cloud platforms, infrastructure automation, configuration management, containerisation, CI/CD pipelines, monitoring, and security tools.
-
-I focus on building reliable and automated environments using modern Cloud and DevOps technologies.
-
-### 💻 Core Expertise
-
-- ☁️ AWS & Microsoft Azure
-- 🏗️ Infrastructure as Code with Terraform
-- ⚙️ Configuration Management with Ansible
-- 🐳 Docker & Containerisation
-- ☸️ Kubernetes
-- 🔄 Jenkins & CI/CD
-- 🐧 Linux Administration
-- 📜 Shell Scripting
-- 🔧 Git & GitHub
-- 📊 Monitoring & Logging
-- 🔐 DevSecOps
+I work with **AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Jenkins, Git, Linux, and Shell Scripting** to automate infrastructure and deployment processes.
 
 ---
 
-# ☁️ Cloud Technologies
+## 🛠️ Skills & Technologies
 
-## Amazon Web Services (AWS)
+### ☁️ Cloud
+- **AWS:** EC2, S3, IAM, VPC, Route 53, Lambda, CloudWatch, Auto Scaling, ECS, EKS, ElastiCache, CloudFront, WAF, CloudTrail
+- **Azure:** Virtual Machines, Storage, Virtual Network, Resource Groups, RBAC, Azure Monitor, Azure CLI
 
-- EC2
-- S3
-- IAM
-- VPC
-- Route 53
-- Lambda
-- CloudWatch
-- Auto Scaling
-- ECS
-- EKS
-- ElastiCache
-- CloudFront
-- WAF
-- CloudTrail
-
-## Microsoft Azure
-
-- Azure Virtual Machines
-- Azure Storage
-- Azure Virtual Network
-- Azure Resource Groups
-- Azure IAM / RBAC
-- Azure Monitor
-- Azure CLI
-
----
-
-# 🏗️ Infrastructure as Code
-
-### Terraform
-
-- Infrastructure provisioning
-- Terraform Modules
-- Variables & Outputs
-- State Management
-- Remote State
-- AWS Infrastructure
-- VPC & Networking
-- EC2 Provisioning
-- Security Groups
-- IAM
-- Infrastructure automation
-
----
-
-# ⚙️ Configuration Management & Automation
-
-### Ansible
-
-- Ansible Playbooks
-- Ansible Roles
-- Ansible Modules
-- Server Configuration
-- Package Management
-- Service Management
-- User Management
-- Application Deployment
-- Infrastructure Automation
-
-### Shell Scripting
-
-- System Administration
-- Server Automation
-- Application Installation
-- Service Management
-- Monitoring
-- Backup Automation
-- Log Management
+### 🏗️ Infrastructure & Automation
+- Terraform
+- Ansible
+- Shell Scripting
 - Linux Administration
+- Infrastructure as Code (IaC)
 
----
-
-# 🐳 Containers & Kubernetes
-
-## Docker
-
-- Docker Images
-- Docker Containers
-- Dockerfile
+### 🐳 Containers & Orchestration
+- Docker
 - Docker Compose
-- Docker Networks
-- Docker Volumes
-- Port Mapping
-- Host Networking
-- Container Logs
-- Multi-stage Builds
-- Image Optimisation
-- Non-root Containers
-
-## Kubernetes
-
-- Pods
-- Deployments
-- Services
-- Namespaces
-- ConfigMaps
-- Secrets
-- YAML Manifests
-- Application Deployment
-- Container Orchestration
+- Kubernetes
 - Amazon EKS
 
----
+### 🔄 CI/CD & DevOps
+- Jenkins
+- GitHub Actions
+- Git & GitHub
+- Maven
+- SonarQube
+- Trivy
 
-# 🔄 CI/CD
-
-## Jenkins
-
-- Jenkins Pipelines
-- Declarative Pipelines
-- Git Integration
-- Docker Build & Deployment
-- Jenkins Agents
-- Multiple Nodes
-- Webhooks
-- Automated Build & Deployment
-
-## GitHub Actions
-
-- Workflow Automation
-- Build Automation
-- CI/CD Pipelines
-- Deployment Automation
-
----
-
-# 📊 Monitoring & Logging
-
-Hands-on experience with monitoring and logging tools:
-
+### 📊 Monitoring
 - AWS CloudWatch
 - Prometheus
 - Grafana
 - Splunk
 - Kibana
 
-Used for:
-
-- Infrastructure Monitoring
-- Application Monitoring
-- Log Monitoring
-- Metrics Collection
-- Dashboards
-- Alerting
-
 ---
 
-# 🔐 Security & DevSecOps
+## 🚀 Projects & Hands-on Work
 
-### Security Technologies
+### ☁️ AWS Infrastructure with Terraform
 
-- AWS IAM
-- Security Groups
-- Network Security
-- Trivy
-- SonarQube
-- Docker Security
-- Container Vulnerability Scanning
-- Code Quality Analysis
+Automated AWS infrastructure provisioning using Terraform, including:
 
-### SonarQube
-
-- Code Quality Analysis
-- Quality Gates
-- Jenkins Integration
-
-### Trivy
-
-- Docker Image Scanning
-- Vulnerability Detection
-- Container Security
-
----
-
-# 🚀 Projects & Hands-on Work
-
-## ☁️ AWS Infrastructure Automation with Terraform
-
-Designed and provisioned AWS infrastructure using Terraform.
-
-### Key Components
-
-- VPC
-- Public & Private Subnets
+- VPC and networking
+- Public & private subnets
 - EC2
 - Security Groups
 - IAM
 - Route Tables
-- Internet Gateway
-- NAT Gateway
 - Terraform Modules
-- Terraform State Management
+- State Management
 
----
+### 🏗️ 3-Tier Application Architecture
 
-## ⚙️ 3-Tier Application Automation
+Implemented a 3-tier application environment using **AWS, Linux, Nginx, MySQL, Shell Scripting, and Ansible**.
 
-Implemented a 3-tier application environment using Linux, Shell Scripting, and Ansible.
+**Web Tier → Application Tier → Database Tier**
 
-### Environment
+### 🐳 Docker & Kubernetes
 
-- Frontend
-- Backend
-- Database
-- Linux Servers
-- MySQL
-- Nginx
-- Ansible
-- Shell Scripting
+Worked with containerised applications using Docker and Kubernetes, including:
 
-### Automation
-
-- Server configuration
-- Application setup
-- Package installation
-- Service configuration
-- Database configuration
-- Application deployment
-
----
-
-## 🐳 Docker Containerisation
-
-Worked with containerised applications using Docker.
-
-### Key Areas
-
-- Dockerfile creation
-- Image creation
-- Container management
-- Port mapping
-- Docker networking
-- Docker volumes
-- Docker Compose
-- Container troubleshooting
-- Image optimisation
-- Container security
-
----
-
-## ☸️ Kubernetes Application Deployment
-
-Worked with Kubernetes for container orchestration and application deployment.
-
-### Key Areas
-
-- Kubernetes Pods
-- Deployments
-- Services
-- Namespaces
-- ConfigMaps
-- Secrets
-- YAML Manifests
-- Application Deployment
+- Dockerfiles and image creation
+- Containers and networking
+- Volumes and Docker Compose
+- Kubernetes Pods, Deployments and Services
+- Kubernetes YAML manifests
 - Amazon EKS
 
+### 🔄 Jenkins CI/CD
+
+Created CI/CD pipelines using Jenkins for automated build and deployment.
+
+**GitHub → Jenkins → Build → Docker → Deployment**
+
+Integrated tools such as **Maven, SonarQube and Trivy** into the DevOps workflow.
+
+### 📊 Monitoring & Security
+
+Worked with **CloudWatch, Prometheus and Grafana** for monitoring and dashboards, along with **SonarQube and Trivy** for code quality and container vulnerability scanning.
+
 ---
 
-## 🔄 Jenkins CI/CD Automation
+## 💻 Technologies
 
-Built CI/CD pipelines using Jenkins to automate application build and deployment processes.
+<p align="left">
 
-### Pipeline Activities
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
 
-```text
-Developer
-    ↓
-GitHub
-    ↓
-Jenkins
-    ↓
-Build
-    ↓
-Code Quality / Security Scan
-    ↓
-Docker Build
-    ↓
-Docker Image
-    ↓
-Deployment
+</p>
+
+---
+
+## 📌 Professional Highlights
+
+- 4+ years of experience in **Cloud & DevOps**
+- AWS & Azure cloud infrastructure
+- Infrastructure automation using **Terraform & Ansible**
+- CI/CD automation using **Jenkins**
+- Containerisation using **Docker & Kubernetes**
+- Linux administration and Shell scripting
+- Monitoring using **CloudWatch, Prometheus & Grafana**
+- DevSecOps using **SonarQube & Trivy**
+
+---
+
+## 📫 Connect With Me
+
+I'm always happy to connect with people working in **Cloud, DevOps, Automation, and Infrastructure**.
+
+🔗 **LinkedIn:** [Satish Polaka](https://www.linkedin.com/in/satish-reddy-883896343)
+
+💻 **GitHub:** [SatishPolaka](https://github.com/SatishPolaka)
+
+📧 **Email:** [satishpolaka@gmail.com](mailto:satishpolaka@gmail.com)
+
+---
+
+### 🚀 Cloud | Automation | DevOps
