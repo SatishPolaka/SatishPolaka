@@ -1,179 +1,32 @@
-# 👋 Hi, I'm Satish Polaka
+# Satish Polaka
 
-### ☁️ AWS & Azure Cloud | DevOps Engineer | Infrastructure Automation
+### AWS & Azure Cloud | DevOps Engineer | Infrastructure Automation
 
-**Building, automating and managing cloud infrastructure and CI/CD workflows.**
+Cloud & DevOps Engineer with **4+ years of IT experience**, specialising in cloud infrastructure, infrastructure automation, CI/CD and containerisation.
 
-I'm a Cloud & DevOps Engineer with 4+ years of IT experience, working with cloud platforms, Infrastructure as Code, containerisation, automation and deployment technologies.
+Experienced in working with AWS and Azure cloud services, Infrastructure as Code, configuration management, CI/CD pipelines, container platforms and Linux environments.
 
-My technical focus includes designing cloud infrastructure, automating deployments, building CI/CD pipelines, managing containers and implementing monitoring and security practices.
-
-I enjoy working on practical projects that connect different DevOps technologies into real-world workflows.
+Focused on building reliable infrastructure, automating operational processes, improving deployment workflows and implementing monitoring and security practices.
 
 ---
 
-## ⚡ My Technical Stack
+## Technical Expertise
 
-| Category                 | Technologies                    |
-| ------------------------ | ------------------------------- |
-| Cloud Platforms          | AWS, Microsoft Azure            |
-| Infrastructure as Code   | Terraform                       |
-| Configuration Management | Ansible                         |
-| Containers               | Docker, Docker Compose          |
-| Orchestration            | Kubernetes, Amazon EKS          |
-| CI/CD                    | Jenkins, GitHub Actions         |
-| Build Tools              | Maven                           |
-| Code Quality             | SonarQube                       |
-| Security Scanning        | Trivy                           |
-| Monitoring               | Prometheus, Grafana, CloudWatch |
-| Logging                  | Splunk, Kibana                  |
-| Operating Systems        | Linux                           |
-| Scripting                | Shell Scripting                 |
-| Version Control          | Git, GitHub                     |
-
----
-
-## ☁️ Cloud Technologies
-
-### Amazon Web Services (AWS)
-
-EC2 • S3 • IAM • VPC • Route 53 • Lambda • CloudWatch • Auto Scaling • ECS • EKS • ElastiCache • CloudFront • WAF • CloudTrail
-
-### Microsoft Azure
-
-Virtual Machines • Storage Accounts • Virtual Networks • Resource Groups • RBAC • Azure Monitor • Azure CLI
-
----
-
-## 🚀 Featured Projects & Practical Implementations
-
-### 01. AWS Three-Tier Architecture
-
-**Technologies:** AWS | Terraform | Linux | Nginx | MySQL | Ansible | Shell Scripting
-
-Implemented a three-tier application architecture with separate web, application and database layers.
-
-* Infrastructure provisioning and configuration.
-* VPC and network configuration.
-* Web and application server setup.
-* Database configuration.
-* Automation using Shell Scripts and Ansible Roles.
-
-### 02. AWS Infrastructure Automation
-
-**Technologies:** AWS | Terraform | Infrastructure as Code
-
-Automated AWS infrastructure provisioning using Terraform.
-
-* VPC and subnet configuration.
-* Public and private networking.
-* EC2 instance provisioning.
-* Security Groups and IAM.
-* Terraform modules and state management.
-
-### 03. Containerisation & Kubernetes
-
-**Technologies:** Docker | Docker Compose | Kubernetes | Amazon EKS
-
-Worked on containerising applications and deploying workloads using Kubernetes.
-
-* Docker image creation and optimisation.
-* Container networking and volumes.
-* Docker Compose configurations.
-* Kubernetes Pods and Deployments.
-* Services and YAML manifests.
-* StatefulSets and DaemonSets.
-
-### 04. Jenkins CI/CD Automation
-
-**Technologies:** Jenkins | GitHub | Maven | SonarQube | Nexus | Docker
-
-Implemented CI/CD workflows for automated application build and deployment.
-
-```text
-Developer
-    |
-    v
-   GitHub
-    |
-    v
-  Jenkins
-    |
-    v
- Maven Build
-    |
-    v
- SonarQube
-    |
-    v
- Artifact Repository
-    |
-    v
- Docker Build
-    |
-    v
- Container Registry
-    |
-    v
- Deployment
-```
-
-### 05. Docker Image Security
-
-**Technologies:** Docker | Trivy
-
-Worked with container image scanning and security checks.
-
-* Docker image scanning.
-* Vulnerability identification.
-* Image security assessment.
-* Container best practices.
-
-### 06. Monitoring & Observability
-
-**Technologies:** Prometheus | Grafana | AWS CloudWatch
-
-Implemented monitoring and visualisation using monitoring tools.
-
-* Metrics collection.
-* Monitoring dashboards.
-* Infrastructure monitoring.
-* Application health visibility.
-
----
-
-## 🔄 DevOps Workflow
-
-```text
-       Source Code
-            |
-            v
-       Git / GitHub
-            |
-            v
-        Jenkins
-            |
-            v
-       Build & Test
-            |
-            v
-      Code Analysis
-            |
-            v
-      Docker Build
-            |
-            v
-    Security Scanning
-            |
-            v
-     Container Registry
-            |
-            v
-    Kubernetes / AWS
-            |
-            v
-       Monitoring
-```
+| Area                        | Technologies                                                          |
+| --------------------------- | --------------------------------------------------------------------- |
+| Cloud Platforms             | AWS, Microsoft Azure                                                  |
+| AWS Services                | EC2, S3, IAM, VPC, Route 53, Lambda, ECS, EKS, CloudWatch, CloudFront |
+| Azure Services              | Virtual Machines, Storage, VNet, Resource Groups, RBAC, Azure Monitor |
+| Infrastructure as Code      | Terraform                                                             |
+| Configuration Management    | Ansible                                                               |
+| Containers & Orchestration  | Docker, Docker Compose, Kubernetes, Amazon EKS                        |
+| CI/CD & Build Automation    | Jenkins, GitHub Actions, Maven                                        |
+| Artifact Management         | Nexus Repository                                                      |
+| Code Quality & Security     | SonarQube, Trivy                                                      |
+| Monitoring & Observability  | Prometheus, Grafana, CloudWatch                                       |
+| Logging                     | Splunk, Kibana                                                        |
+| Operating Systems           | Linux                                                                 |
+| Scripting & Version Control | Shell Scripting, Git, GitHub                                          |
 
 ---
 
@@ -197,46 +50,38 @@ Implemented monitoring and visualisation using monitoring tools.
 </p>
 
 ---
+---
 
-## 📊 GitHub Activity
+## Engineering Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatishPolaka\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatishPolaka\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SatishPolaka\&theme=tokyonight\&hide_border=true)
+* Cloud infrastructure provisioning and management.
+* Infrastructure automation using Terraform and Ansible.
+* CI/CD pipeline development and deployment automation.
+* Containerisation and Kubernetes orchestration.
+* Linux administration and operational troubleshooting.
+* Application monitoring and infrastructure observability.
+* Container security and code quality analysis.
 
 ---
 
-## 🎯 Technical Interests
+## GitHub Activity
 
-* Cloud Infrastructure & Architecture
-* AWS and Azure Automation
-* Infrastructure as Code
-* CI/CD Pipeline Engineering
-* Docker & Kubernetes
-* DevSecOps & Container Security
-* Monitoring & Observability
-* Linux Administration
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SatishPolaka&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🤝 Let's Connect
-
-Interested in connecting with professionals working in Cloud Computing, DevOps, Infrastructure Automation and Platform Engineering.
-
-<p align="left">
-<a href="https://www.linkedin.com/in/satish-reddy-883896343">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/SatishPolaka">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:satishpolaka@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishPolaka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ☁️ AUTOMATE | BUILD | DEPLOY | MONITOR
+## Connect
+
+* LinkedIn: [Satish Polaka](https://www.linkedin.com/in/satish-reddy-883896343)
+* GitHub: [SatishPolaka](https://github.com/SatishPolaka)
+* Email: [satishpolaka@gmail.com](mailto:satishpolaka@gmail.com)
+
+---
+
+**CLOUD INFRASTRUCTURE | AUTOMATION | CI/CD | DEVOPS**
