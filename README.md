@@ -64,17 +64,11 @@ Focused on building reliable infrastructure, automating operational processes, i
 
 ---
 
-## GitHub Activity
+GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SatishPolaka&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SatishPolaka&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishPolaka&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishPolaka&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ## Connect
 
